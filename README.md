@@ -1,2 +1,6 @@
-# pythoncovertor_uyghur2latin
-There give a simple Python code,that can conver old text to latin text
+## pythoncovertor_uyghur2latin
+
+#### ئاددى بىر پايسون پىروگىراممىسى
+كونا يېزىقنى لاتىن يېزىقىغا ئايلاندۇرۇش كودى.توغرىلىق نىسپىتى 99% كەم ئەمەس
+تېكسىت ھۆججىتىدە خەتلەر بولىدۇ
+#### كود ھۆججىتىنى ۈشۈرۈپلا تىز سۈرئەتتە ئالماشتۇرۇش قىلالايسىز
